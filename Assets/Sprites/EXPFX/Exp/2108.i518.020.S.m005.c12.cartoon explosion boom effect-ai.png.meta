@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 32372bdcb11c98343a35ab9da9f41be1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 60
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ba84475a68584eaff86c31348e612
+      internalID: -1550262659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 70
+        width: 124
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4733871, y: 0.42214283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a10dda783dd04d98aec6a3061d4a9
+      internalID: -396393982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 92
+        width: 86
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5025582, y: 0.41688174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d139700547ad43ac73862e3f1038d
+      internalID: 1002767929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 119
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4686207, y: 0.428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4db2c653da9464caf2b94bae307a51
+      internalID: 1072216418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 50
+        height: 55
+      alignment: 9
+      pivot: {x: 0.512, y: 0.5345454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9414b4c00c17a49a65dbb50f3bae03
+      internalID: 1690876730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 80
+        width: 103
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25377b5cf098014489b4844e27678c54
+      internalID: -835556521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 97
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb30d9bc55195499355051755fa699
+      internalID: 374825050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_17
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 111
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d120d63c19f643bf07fe79530fbdb
+      internalID: -410483289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_3: 1002767929
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_25: -1341666571
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_1: -76498294
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_2: -396393982
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_26: -1958991272
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_12: 1690876730
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_4: -930535529
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_16: 374825050
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_21: -557038925
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_23: 1945316810
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_10: -286953015
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_24: 703490315
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_17: -410483289
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_18: -869978898
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_15: -835556521
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_5: -714586661
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_27: -934868491
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_11: 1072216418
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_9: -1747107609
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_13: -1245078421
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_20: -1304403212
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_22: -432056574
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_0: -1550262659
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_8: -329534737
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_14: -2042603150
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_19: -975303759
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_6: -1797046919
+      2108.i518.020.S.m005.c12.cartoon explosion boom effect-ai_7: 1390347212
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

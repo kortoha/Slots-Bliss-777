@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 8e08ac9ba845f7141a4db9d36cfeab2d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exp_0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 686
+        width: 172
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2040616a6fe2aa41835ed3265fc94dc
+      internalID: -1460724859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 725
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0f2ac9bb35e048ba6584d21d0176c
+      internalID: 190989958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 712
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89280296cbc95d4e9e6dce0dece4a71
+      internalID: -112437260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 394
+        width: 244
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b313ec850ca80454992020f6620b5591
+      internalID: 132654980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 381
+        width: 254
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a8d2f418adac4b90f0546b45dfa1c
+      internalID: -1344553315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 389
+        width: 234
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456622f485cef244b3aedf6228246ae
+      internalID: -1583767996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 82
+        width: 261
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2810616c773d96b4fb5aec2dcb504523
+      internalID: 1916199170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 74
+        width: 263
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed41ee3a03f8f340bcde981b0ea3f0e
+      internalID: 1267987105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exp_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 77
+        width: 253
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245000b4fe18c9f47921232274bac580
+      internalID: 72684969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Exp_8: 72684969
+      Exp_7: -1344553315
+      Exp_50: -607526619
+      Exp_16: 1416752322
+      Exp_33: 1740236909
+      Exp_39: 1327637592
+      Exp_9: -877490131
+      Exp_75: -984057856
+      Exp_30: 1937707281
+      Exp_38: -1149815153
+      Exp_82: 1614626070
+      Exp_66: 2141147289
+      Exp_59: 10323182
+      Exp_24: -1428395763
+      Exp_46: 1321906614
+      Exp_78: -137356984
+      Exp_53: -1355329104
+      Exp_2: 190989958
+      Exp_83: -1376417494
+      Exp_26: -917020073
+      Exp_17: -70531443
+      Exp_61: 1977282526
+      Exp_31: 1366472408
+      Exp_13: 2070984035
+      Exp_54: -76742224
+      Exp_71: 52012072
+      Exp_51: -1609516621
+      Exp_35: -1911336494
+      Exp_77: 1621085188
+      Exp_21: -972818404
+      Exp_28: 979694228
+      Exp_44: 1009150474
+      Exp_55: 278445031
+      Exp_62: -1166999538
+      Exp_79: -531225901
+      Exp_81: 315300008
+      Exp_10: 1969075432
+      Exp_32: 1857030641
+      Exp_22: 151390449
+      Exp_27: -1834304114
+      Exp_29: 960481785
+      Exp_76: 1469008586
+      Exp_0: -1460724859
+      Exp_65: 1094880661
+      Exp_19: 22296445
+      Exp_25: 910129852
+      Exp_14: -1273625544
+      Exp_48: 1243628630
+      Exp_43: -969680440
+      Exp_67: 993530155
+      Exp_41: -906056118
+      Exp_1: -1583767996
+      Exp_20: -1981199567
+      Exp_23: -1723953873
+      Exp_49: -1016471206
+      Exp_42: -962886820
+      Exp_15: -647112333
+      Exp_18: 969684346
+      Exp_45: -860982155
+      Exp_3: -112437260
+      Exp_58: 1647500207
+      Exp_36: 911997454
+      Exp_63: 1990003685
+      Exp_11: 1078997606
+      Exp_5: 1267987105
+      Exp_12: -89303286
+      Exp_37: 1267344941
+      Exp_74: -562998809
+      Exp_47: 804357036
+      Exp_80: 1869763944
+      Exp_70: 746975948
+      Exp_60: 1079732617
+      Exp_57: -1735066136
+      Exp_4: 1916199170
+      Exp_69: -656611607
+      Exp_52: 2052343495
+      Exp_34: -1288802559
+      Exp_68: -1965094335
+      Exp_56: 836652746
+      Exp_72: 677862597
+      Exp_73: 1942189972
+      Exp_6: 132654980
+      Exp_40: -423857905
+      Exp_64: -889053424
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
