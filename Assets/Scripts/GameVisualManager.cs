@@ -41,6 +41,7 @@ public class GameVisualManager : MonoBehaviour
             foreach (var item in _stafArray)
             {
                 item.SetActive(false);
+                ToggleObjectsByLayer("FX", false);
             }
         }
     }
@@ -57,6 +58,20 @@ public class GameVisualManager : MonoBehaviour
             foreach (var item in _stafArray)
             {
                 item.SetActive(true);
+                ToggleObjectsByLayer("FX", true);
+            }
+        }
+    }
+
+    private void ToggleObjectsByLayer(string layerName, bool active)
+    {
+        GameObject[] allObjects = GameObject.FindObjectsOfType<GameObject>();
+
+        foreach (var obj in allObjects)
+        {
+            if (obj.layer == LayerMask.NameToLayer(layerName))
+            {
+                obj.SetActive(active);
             }
         }
     }
